@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Apalon Notes</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="edit_tittle">Enter tittle</string>
+    <string name="edit_message">Enter message</string>
+    <string name="edit_note">Edit note</string>
+    <string name="microphone">Microphone</string>
+    <string name="remove">Remove</string>
+    <string name="sort_note"></string>
+</resources>
